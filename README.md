@@ -16,6 +16,4 @@ Edu-tech App:
 
 
 
-
-
-<img width="557" alt="screenshot 1" src="https://user-images.githubusercontent.com/42419365/186587628-47f4ecbe-1766-4073-b124-92f80fb4fa6a.png">
+<img width="648" alt="lauch screen shot 2" src="https://user-images.githubusercontent.com/42419365/186588331-e75099c1-87b9-4c5a-b951-64aac2c4e4dc.png">
